@@ -43,6 +43,8 @@ Formatting, linting, other must have plugins for editors. Package management and
 
 ##### Videos
 
+* Sentdex Python Beginner videos: [YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M) [Website](https://pythonprogramming.net/)
+
 ##### MOOCs
 
 * Udacity-Intro to computer science - CS101 -[Link](https://www.udacity.com/course/intro-to-computer-science--cs101)
